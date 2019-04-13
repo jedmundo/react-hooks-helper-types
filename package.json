@@ -1,0 +1,23 @@
+{
+  "name": "@types/react-hooks-helper",
+  "version": "1.0.0",
+  "description": "Types for react-hooks-helper library",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmundo/react-hooks-helper-types.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks-helper"
+  ],
+  "author": {
+    "name": "Joao Edmundo",
+    "email": "https://github.com/jedmundo"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmundo/react-hooks-helper-types/issues"
+  },
+  "typings": "index.d.ts"
+}
