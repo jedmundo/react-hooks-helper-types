@@ -1,5 +1,5 @@
 # Installation
-> `npm install --save @types/base16`
+> `npm install --save @types/react-hooks-helper`
 
 # Summary
 This package contains type definitions for react-hooks-helper 1.6.0 (https://github.com/revelcw/react-hooks-helper).
